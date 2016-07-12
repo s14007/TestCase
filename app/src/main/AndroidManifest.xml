@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".List" />
-        <activity android:name=".Order"></activity>
+        <activity android:name=".Order" />
+        <activity android:name=".DatabaseView"></activity>
     </application>
 
 </manifest>
